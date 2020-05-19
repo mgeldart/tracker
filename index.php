@@ -14,8 +14,6 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat|Ubuntu&display=swap" rel="stylesheet">
 <script src="https://kit.fontawesome.com/9dac3f2021.js"></script>
 </head>
-
-  </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark col">
 		  <img src="images/vs.png" alt="Visualsoft">
@@ -123,16 +121,6 @@
             </tr>
           </tbody>
           </table>
-
-
-
     </div>
-
-
-
-
-
-
-
   </body>
 </html>
